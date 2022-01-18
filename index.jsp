@@ -8,7 +8,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
-
+<link href="webjars/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
 
 </head>
 <body>
@@ -39,7 +39,7 @@
  							</c:choose></h1>
  		
  		
- 	<h1 > segunda parte </h1>
+ 	<h1 class="text-primary"> segunda parte </h1>
  	
  	
 			<c:set var="contagem " value= "10"/> 
